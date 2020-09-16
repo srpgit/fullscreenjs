@@ -1,0 +1,16 @@
+.fs-controller {
+	width: 25px;
+	height: 25px;
+	cursor: pointer;
+	background-size: 16px 16px;
+}
+
+.fs-on {
+	background-image: url("images/fs-on.png");
+	background-repeat: no-repeat;
+}
+
+.fs-off {
+	background-image: url("images/fs-off.png");
+	background-repeat: no-repeat;
+}
